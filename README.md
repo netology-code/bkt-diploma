@@ -28,7 +28,7 @@ Basic Kotlin. Tribune
 
 ![](pic/login.png)
 
-### Экран идей
+### Экран идей (картинка кликабельна)
 
 ![](pic/ideas.png)
 
